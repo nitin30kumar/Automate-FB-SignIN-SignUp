@@ -2,13 +2,13 @@
 
 #### Requirements
 
-> Modules used :/
+> Modules used :  
 
 * selenium
-> Better use PyCharm Community Edition for fast and hasle free coding experience
-> Install ChromeDriver to run selenium code /
-> Download from here - https://chromedriver.chromium.org/downloads
-> Download Chrome Driver [here](https://pages.github.com/).
+> Better use PyCharm Community Edition for fast and hasle free coding experience  
+> Install ChromeDriver to run selenium code   
+> Download from here - https://chromedriver.chromium.org/downloads  
+> Download Chrome Driver [here](https://pages.github.com/).  
 
 #### Salient features
 
