@@ -12,6 +12,9 @@
 #### Salient features
 
 * comments in code for clear understanding
+* no need of your personal email id
+* email id is your firstname_DOB   
+  * > for example, if your firstname is "Nitin" and DOB is "30-05-1998" then your email will be "nitin30051998@gmailnator.com"
 * simple and small code to understand better
 * not so difficult to grasp
 * clear as so many topics covered like:
