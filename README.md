@@ -9,6 +9,9 @@
 > Mandatory to install ChromeDriver to run selenium code   
 > Download Chrome Driver [here](https://chromedriver.chromium.org/downloads)  
 
+####  Need help in configuration ??
+> Check [here](https://youtu.be/8Er_9s3hUyY)
+
 #### Salient features
 
 * comments in code for clear understanding
@@ -25,9 +28,6 @@
   * email not necessary, will update with manual process in subsequent release
 * cool to make with basic knowledge of python
 * Passwords are secured with https as used by facebook
-
-####  Need help in configuration ??
-> Check [here](https://youtu.be/8Er_9s3hUyY)
 
 #### Connect me
 
